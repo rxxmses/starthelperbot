@@ -1,0 +1,7 @@
+telebot~=0.0.5
+beautifulsoup4~=4.12.2
+requests~=2.31.0
+schedule~=1.2.0
+
+django-scheduler~=0.10.1
+python-dotenv~=1.0.0
